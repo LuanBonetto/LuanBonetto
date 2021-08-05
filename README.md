@@ -7,6 +7,8 @@
 - Focused on **user experience**.
 - Learning **game development** 🎮
 
+<br/>
+
 ## Languages and Tools:
 
 <a href="https://github.com/LuanBonetto">
