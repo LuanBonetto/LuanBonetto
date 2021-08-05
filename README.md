@@ -6,3 +6,5 @@
 - I'm graduated in **computer networks** 🖥️
 - Focused on **user experience**.
 - Learning **game development** 🎮
+
+## Languages and Tools:
