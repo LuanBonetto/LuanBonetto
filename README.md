@@ -4,5 +4,5 @@
 
 - Full stack developer 👨‍💻
 - I'm graduated in **computer networks** 🖥️
-- Focused on user **experience**.
-- Learning game development 🎮
+- Focused on **user experience**.
+- Learning **game development** 🎮
